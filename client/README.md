@@ -1,1 +1,4 @@
-# Ecommerce Client React Update
+# Ecommerce Client React
+
+Technologies used : React, Material UI
+Under Construction
